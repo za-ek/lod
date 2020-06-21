@@ -4883,6 +4883,9 @@
 #n4_624 a {
     color: rgb(0, 122, 255);
 }
+#n4_645 > div{
+    cursor: pointer;
+}
 
 /* Icons/ArrowCornerBack */
 #n4_625 {
@@ -4896,3 +4899,4 @@
     top: 8.75%;
     bottom: 8.75%;
 }
+html {scroll-behavior: smooth;}

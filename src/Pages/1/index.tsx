@@ -1,148 +1,128 @@
 import React from "react";
 import {Link} from "react-router-dom";
-// import "./s.css";
+import "./s.css";
 
 export default function () {
     return <div className="frame" id="n4_0">
+        
         <div className="frame" id="n4_1"></div>
+        
         <div className="center frame" id="n4_3">
-            <div className="left top component" id="n4_4">
-                <div className="scale rectangle" id="n4_6"></div>
+            
+            <div className="left top component" id="n5_1458">
                 
-                <div className="frame" id="n4_7">
+                <div className="scale rectangle" id="n5_1460"></div>
+                
+                <div className="frame" id="n5_1461">
                     
-                    <div className="scale text" id="n4_8">Филимонов Максим Н.</div>
+                    <div className="scale text" id="n5_1462">Ивацевич Юрий Б.</div>
                     
-                    <div className="scale text" id="n4_9">Грейд</div>
+                    <div className="scale text" id="n5_1463">Доцент</div>
                 </div>
                 
-                <div className="frame" id="n4_10"></div>
+                <div className="frame" id="n5_1464"></div>
                 
-                <div className="scale text" id="n4_11">3</div>
-                
-                <div className="scale text" id="n4_12">ЗУ</div>
-                
-                <div className="frame" id="n4_13">
+                <div className="frame" id="n5_1623">
                     
-                    <div className="scale text" id="n4_14">8,1</div>
+                    <div className="scale text" id="n5_1465">3</div>
                     
-                    <div className="scale rectangle" id="n4_15"></div>
-                    
-                    <div className="scale rectangle" id="n4_16"></div>
-                    
-                    <div className="scale rectangle" id="n4_17"></div>
+                    <div className="scale text" id="n5_1466">ЗЕТ</div>
                 </div>
                 
-                <div className="frame" id="n4_18">
+                <div className="frame" id="n5_1472">
                     
-                    <div className="scale text" id="n4_19">7,4</div>
+                    <div className="scale text" id="n5_1473">9,1</div>
                     
-                    <div className="scale rectangle" id="n4_20"></div>
+                    <div className="scale rectangle" id="n5_1474"></div>
                     
-                    <div className="scale rectangle" id="n4_21"></div>
+                    <div className="scale rectangle" id="n5_1475"></div>
                     
-                    <div className="scale rectangle" id="n4_22"></div>
+                    <div className="scale rectangle" id="n5_1476"></div>
                 </div>
                 
-                <div className="frame" id="n4_23">
+                <div className="frame" id="n5_1477">
                     
-                    <div className="scale text" id="n4_24">Название</div>
+                    <div className="scale text" id="n5_1478"><Link to={"/programs/2"}>Искусственный интеллект</Link></div>
                     
-                    <div className="scale text" id="n4_25">Кафедра</div>
+                    <div className="scale text" id="n5_1479">Робототехника и мехатроника</div>
                 </div>
             </div>
             
-            <div className="component left top instance" id="n4_26">
+            <div className="frame" id="n5_3381">
                 
-                <div className="scale rectangle" id="nI4_26-4_6"></div>
+                <div className="scale rectangle" id="n5_3383"></div>
                 
-                <div className="frame" id="nI4_26-4_7">
+                <div className="frame" id="n5_3384">
                     
-                    <div className="scale text" id="nI4_26-4_8">Филимонов Максим Н.</div>
+                    <div className="scale text" id="n5_3385">Герасимов Владимир А.</div>
                     
-                    <div className="scale text" id="nI4_26-4_9">Грейд</div>
+                    <div className="scale text" id="n5_3386">Доцент</div>
                 </div>
                 
-                <div className="frame" id="nI4_26-4_10"></div>
+                <div className="frame" id="n5_3387"></div>
                 
-                <div className="scale text" id="nI4_26-4_11">3</div>
-                
-                <div className="scale text" id="nI4_26-4_12">ЗУ</div>
-                
-                <div className="frame" id="nI4_26-4_13">
+                <div className="frame" id="n5_3388">
                     
-                    <div className="scale text" id="nI4_26-4_14">8,1</div>
+                    <div className="scale text" id="n5_3389">4</div>
                     
-                    <div className="scale rectangle" id="nI4_26-4_15"></div>
-                    
-                    <div className="scale rectangle" id="nI4_26-4_16"></div>
-                    
-                    <div className="scale rectangle" id="nI4_26-4_17"></div>
+                    <div className="scale text" id="n5_3390">ЗЕТ</div>
                 </div>
                 
-                <div className="frame" id="nI4_26-4_18">
+                <div className="frame" id="n5_3391">
                     
-                    <div className="scale text" id="nI4_26-4_19">7,4</div>
+                    <div className="scale text" id="n5_3392">7,0</div>
                     
-                    <div className="scale rectangle" id="nI4_26-4_20"></div>
+                    <div className="scale rectangle" id="n5_3393"></div>
                     
-                    <div className="scale rectangle" id="nI4_26-4_21"></div>
+                    <div className="scale rectangle" id="n5_3394"></div>
                     
-                    <div className="scale rectangle" id="nI4_26-4_22"></div>
+                    <div className="scale rectangle" id="n5_3395"></div>
                 </div>
                 
-                <div className="frame" id="nI4_26-4_23">
+                <div className="frame" id="n5_3396">
                     
-                    <div className="scale text" id="nI4_26-4_24">Название</div>
+                    <div className="scale text" id="n5_3397">Микропроцессорная техника</div>
                     
-                    <div className="scale text" id="nI4_26-4_25">Кафедра</div>
+                    <div className="scale text" id="n5_3398">Робототехника и мехатроника</div>
                 </div>
             </div>
             
-            <div className="component left top instance" id="n4_27">
+            <div className="frame" id="n5_3399">
                 
-                <div className="scale rectangle" id="nI4_27-4_6"></div>
+                <div className="scale rectangle" id="n5_3401"></div>
                 
-                <div className="frame" id="nI4_27-4_7">
+                <div className="frame" id="n5_3402">
                     
-                    <div className="scale text" id="nI4_27-4_8">Филимонов Максим Н.</div>
+                    <div className="scale text" id="n5_3403">Юсупов Александр Р.</div>
                     
-                    <div className="scale text" id="nI4_27-4_9">Грейд</div>
+                    <div className="scale text" id="n5_3404">Cт. преподаватель</div>
                 </div>
                 
-                <div className="frame" id="nI4_27-4_10"></div>
+                <div className="frame" id="n5_3405"></div>
                 
-                <div className="scale text" id="nI4_27-4_11">3</div>
-                
-                <div className="scale text" id="nI4_27-4_12">ЗУ</div>
-                
-                <div className="frame" id="nI4_27-4_13">
+                <div className="frame" id="n5_3406">
                     
-                    <div className="scale text" id="nI4_27-4_14">8,1</div>
+                    <div className="scale text" id="n5_3407">3</div>
                     
-                    <div className="scale rectangle" id="nI4_27-4_15"></div>
-                    
-                    <div className="scale rectangle" id="nI4_27-4_16"></div>
-                    
-                    <div className="scale rectangle" id="nI4_27-4_17"></div>
+                    <div className="scale text" id="n5_3408">ЗЕТ</div>
                 </div>
                 
-                <div className="frame" id="nI4_27-4_18">
+                <div className="frame" id="n5_3409">
                     
-                    <div className="scale text" id="nI4_27-4_19">7,4</div>
+                    <div className="scale text" id="n5_3410">8,2</div>
                     
-                    <div className="scale rectangle" id="nI4_27-4_20"></div>
+                    <div className="scale rectangle" id="n5_3411"></div>
                     
-                    <div className="scale rectangle" id="nI4_27-4_21"></div>
+                    <div className="scale rectangle" id="n5_3412"></div>
                     
-                    <div className="scale rectangle" id="nI4_27-4_22"></div>
+                    <div className="scale rectangle" id="n5_3413"></div>
                 </div>
                 
-                <div className="frame" id="nI4_27-4_23">
+                <div className="frame" id="n5_3414">
                     
-                    <div className="scale text" id="nI4_27-4_24">Название</div>
+                    <div className="scale text" id="n5_3415">Теория принятия решений</div>
                     
-                    <div className="scale text" id="nI4_27-4_25">Кафедра</div>
+                    <div className="scale text" id="n5_3416">Робототехника и мехатроника</div>
                 </div>
             </div>
         </div>
@@ -173,24 +153,12 @@ export default function () {
                 
                 <div className="left top text" id="n4_39">Название</div>
                 
-                <div className="scale text" id="n4_40">Оценка преподав.</div>
-            </div>
-            
-            <div className="scale frame" id="n4_41">
+                <div className="scale text" id="n4_40">Предварительная оценка</div>
                 
-                <div className="center text" id="n4_42">􀆈</div>
+                <div className="scale text" id="n4_45">Трудоемкость</div>
             </div>
             
-            <div className="scale frame" id="n4_43">
-                
-                <div className="center text" id="n4_44">􀆈</div>
-            </div>
-            
-            <div className="scale text" id="n4_45">Продолж.</div>
-            
-            <div className="scale text" id="n4_46">Оценка курса</div>
-            
-            <div className="scale text" id="n4_47">Преподаватель</div>
+            <div className="scale text" id="n4_47">Составитель</div>
             
             <div className="scale frame" id="n4_48">
                 

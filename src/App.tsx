@@ -7,12 +7,16 @@ import {EducationalProgram} from "./Pages/EducationalProgram";
 import Page1 from "./Pages/1";
 import Page2 from "./Pages/2";
 import Page4 from "./Pages/4";
+import Page6 from "./Pages/6";
 // import Page3 from "./Pages/3";
 
 function App() {
   return (
         <HashRouter>
             <Switch>
+                <Route path={"/programs/2"}>
+                    <Page6 />
+                </Route>
                 <Route path={"/programs/1"}>
                     <Page4 />
                 </Route>

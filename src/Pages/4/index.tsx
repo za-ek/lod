@@ -1102,7 +1102,7 @@ export default function () {
             
             <div className="frame" id="n4_627">
                 
-                <div className="left top text" id="n4_624"><Link to={"/"}>Назад</Link></div>
+                <div className="left top text" id="n4_624"><Link to={"/programs/old"}>Назад</Link></div>
                 
                 <div className="component left top instance" id="n4_625">
                     

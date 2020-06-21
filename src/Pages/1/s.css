@@ -24,31 +24,31 @@
     top: 297px;
 }
 
-/* Component 1 */
-#n4_4 {
+/* Component 5 */
+#n5_1458 {
     width: 1048px;
     height: 81px;
 }
 
 /* line */
-#n4_6 {
-    background: rgb(229, 229, 229);
+#n5_1460 {
+    background: rgb(196, 196, 196);
     left: 1.52672%;
     right: 1.52672%;
     top: 99.38%;
 }
 
 /* Frame 13437 */
-#n4_7 {
+#n5_1461 {
     width: 169px;
     height: 40.1539px;
     overflow: visible;
-    left: 395px;
+    left: 446px;
     top: 16px;
 }
 
 /* text */
-#n4_8 {
+#n5_1462 {
     font-family: Arial;
     font-size: 16px;
     font-weight: 400;
@@ -58,11 +58,12 @@
     justify-content: flex-start;
     transform: translate(0px, -1.38667px);
     line-height: 22px;
+    right: 17.1598%;
     bottom: 45.21%;
 }
 
 /* text */
-#n4_9 {
+#n5_1463 {
     font-family: Arial;
     font-size: 12px;
     font-weight: 400;
@@ -72,12 +73,12 @@
     justify-content: flex-start;
     transform: translate(0px, -0.826667px);
     line-height: 16px;
-    right: 80.4734%;
+    right: 75.7396%;
     top: 60.15%;
 }
 
 /* Frame 13438 */
-#n4_10 {
+#n5_1464 {
     width: 15px;
     height: 40.1539px;
     overflow: visible;
@@ -85,8 +86,17 @@
     top: 16px;
 }
 
+/* Frame 13455 */
+#n5_1623 {
+    width: 23px;
+    height: 40.1538px;
+    overflow: visible;
+    left: 705px;
+    top: 16px;
+}
+
 /* text */
-#n4_11 {
+#n5_1465 {
     font-family: Arial;
     font-size: 16px;
     font-weight: 400;
@@ -96,14 +106,12 @@
     justify-content: flex-start;
     transform: translate(0px, -1.38667px);
     line-height: 22px;
-    left: 62.1183%;
-    right: 37.0229%;
-    top: 19.75%;
-    bottom: 53.09%;
+    right: 60.8696%;
+    bottom: 45.21%;
 }
 
 /* text */
-#n4_12 {
+#n5_1466 {
     font-family: Arial;
     font-size: 12px;
     font-weight: 400;
@@ -113,69 +121,20 @@
     justify-content: flex-start;
     transform: translate(0px, -0.826667px);
     line-height: 16px;
-    left: 62.1183%;
-    right: 36.4504%;
-    top: 49.57%;
-    bottom: 30.67%;
-}
-
-/* Frame 13439 */
-#n4_13 {
-    width: 86px;
-    height: 36px;
-    overflow: visible;
-    left: 764px;
-    top: 16px;
-}
-
-/* text */
-#n4_14 {
-    font-family: Arial;
-    font-size: 16px;
-    font-weight: 700;
-    letter-spacing: 0.05px;
-    color: rgb(0, 0, 0);
-    vertical-align: middle;
-    justify-content: flex-start;
-    transform: translate(0px, -1.38667px);
-    line-height: 22px;
-    right: 73.2558%;
-    bottom: 38.89%;
-}
-
-/* Rectangle 1413 */
-#n4_15 {
-    background: rgb(233, 233, 233);
-    border-radius: 20px;
-    top: 77.78%;
-}
-
-/* Rectangle 1414 */
-#n4_16 {
-    background: rgb(233, 233, 233);
-    border-radius: 20px;
-    top: 77.78%;
-}
-
-/* Rectangle 1415 */
-#n4_17 {
-    background: rgb(108, 205, 99);
-    border-radius: 20px;
-    right: 26.7442%;
-    top: 77.78%;
+    top: 60.15%;
 }
 
 /* Frame 13440 */
-#n4_18 {
+#n5_1472 {
     width: 86px;
     height: 36px;
     overflow: visible;
-    left: 918px;
+    left: 876px;
     top: 16px;
 }
 
 /* text */
-#n4_19 {
+#n5_1473 {
     font-family: Arial;
     font-size: 16px;
     font-weight: 700;
@@ -190,29 +149,29 @@
 }
 
 /* Rectangle 1413 */
-#n4_20 {
+#n5_1474 {
     background: rgb(233, 233, 233);
     border-radius: 20px;
     top: 77.78%;
 }
 
 /* Rectangle 1414 */
-#n4_21 {
+#n5_1475 {
     background: rgb(233, 233, 233);
     border-radius: 20px;
     top: 77.78%;
 }
 
 /* Rectangle 1415 */
-#n4_22 {
-    background: rgb(255, 210, 94);
+#n5_1476 {
+    background: rgb(108, 205, 99);
     border-radius: 20px;
-    right: 33.7209%;
+    right: 13.9535%;
     top: 77.78%;
 }
 
 /* Frame 13436 */
-#n4_23 {
+#n5_1477 {
     width: 243px;
     height: 41px;
     overflow: visible;
@@ -221,7 +180,7 @@
 }
 
 /* number */
-#n4_24 {
+#n5_1478 {
     font-family: Arial;
     font-size: 16px;
     font-weight: 400;
@@ -231,12 +190,12 @@
     justify-content: flex-start;
     transform: translate(0px, -1.38667px);
     line-height: 22px;
-    right: 70.3704%;
+    right: 19.7531%;
     bottom: 46.34%;
 }
 
 /* text */
-#n4_25 {
+#n5_1479 {
     font-family: Arial;
     font-size: 12px;
     font-weight: 400;
@@ -246,36 +205,37 @@
     justify-content: flex-start;
     transform: translate(0px, -0.826667px);
     line-height: 16px;
-    right: 79.0123%;
+    right: 31.6872%;
     top: 60.98%;
 }
 
-/* Component 3 */
-#n4_26 {
+/* Component 6 */
+#n5_3381 {
     width: 1048px;
     height: 81px;
+    overflow: visible;
     top: 89px;
 }
 
 /* line */
-#nI4_26-4_6 {
-    background: rgb(229, 229, 229);
+#n5_3383 {
+    background: rgb(196, 196, 196);
     left: 1.52672%;
     right: 1.52672%;
     top: 99.38%;
 }
 
 /* Frame 13437 */
-#nI4_26-4_7 {
+#n5_3384 {
     width: 169px;
     height: 40.1539px;
     overflow: visible;
-    left: 395px;
+    left: 446px;
     top: 16px;
 }
 
 /* text */
-#nI4_26-4_8 {
+#n5_3385 {
     font-family: Arial;
     font-size: 16px;
     font-weight: 400;
@@ -285,11 +245,12 @@
     justify-content: flex-start;
     transform: translate(0px, -1.38667px);
     line-height: 22px;
+    right: -7.10059%;
     bottom: 45.21%;
 }
 
 /* text */
-#nI4_26-4_9 {
+#n5_3386 {
     font-family: Arial;
     font-size: 12px;
     font-weight: 400;
@@ -299,12 +260,12 @@
     justify-content: flex-start;
     transform: translate(0px, -0.826667px);
     line-height: 16px;
-    right: 80.4734%;
+    right: 75.7396%;
     top: 60.15%;
 }
 
 /* Frame 13438 */
-#nI4_26-4_10 {
+#n5_3387 {
     width: 15px;
     height: 40.1539px;
     overflow: visible;
@@ -312,8 +273,17 @@
     top: 16px;
 }
 
+/* Frame 13455 */
+#n5_3388 {
+    width: 23px;
+    height: 40.1538px;
+    overflow: visible;
+    left: 705px;
+    top: 16px;
+}
+
 /* text */
-#nI4_26-4_11 {
+#n5_3389 {
     font-family: Arial;
     font-size: 16px;
     font-weight: 400;
@@ -323,14 +293,12 @@
     justify-content: flex-start;
     transform: translate(0px, -1.38667px);
     line-height: 22px;
-    left: 62.1183%;
-    right: 37.0229%;
-    top: 19.75%;
-    bottom: 53.09%;
+    right: 60.8696%;
+    bottom: 45.21%;
 }
 
 /* text */
-#nI4_26-4_12 {
+#n5_3390 {
     font-family: Arial;
     font-size: 12px;
     font-weight: 400;
@@ -340,69 +308,20 @@
     justify-content: flex-start;
     transform: translate(0px, -0.826667px);
     line-height: 16px;
-    left: 62.1183%;
-    right: 36.4504%;
-    top: 49.57%;
-    bottom: 30.67%;
-}
-
-/* Frame 13439 */
-#nI4_26-4_13 {
-    width: 86px;
-    height: 36px;
-    overflow: visible;
-    left: 764px;
-    top: 16px;
-}
-
-/* text */
-#nI4_26-4_14 {
-    font-family: Arial;
-    font-size: 16px;
-    font-weight: 700;
-    letter-spacing: 0.05px;
-    color: rgb(0, 0, 0);
-    vertical-align: middle;
-    justify-content: flex-start;
-    transform: translate(0px, -1.38667px);
-    line-height: 22px;
-    right: 73.2558%;
-    bottom: 38.89%;
-}
-
-/* Rectangle 1413 */
-#nI4_26-4_15 {
-    background: rgb(233, 233, 233);
-    border-radius: 20px;
-    top: 77.78%;
-}
-
-/* Rectangle 1414 */
-#nI4_26-4_16 {
-    background: rgb(233, 233, 233);
-    border-radius: 20px;
-    top: 77.78%;
-}
-
-/* Rectangle 1415 */
-#nI4_26-4_17 {
-    background: rgb(108, 205, 99);
-    border-radius: 20px;
-    right: 26.7442%;
-    top: 77.78%;
+    top: 60.15%;
 }
 
 /* Frame 13440 */
-#nI4_26-4_18 {
+#n5_3391 {
     width: 86px;
     height: 36px;
     overflow: visible;
-    left: 918px;
+    left: 876px;
     top: 16px;
 }
 
 /* text */
-#nI4_26-4_19 {
+#n5_3392 {
     font-family: Arial;
     font-size: 16px;
     font-weight: 700;
@@ -417,29 +336,29 @@
 }
 
 /* Rectangle 1413 */
-#nI4_26-4_20 {
+#n5_3393 {
     background: rgb(233, 233, 233);
     border-radius: 20px;
     top: 77.78%;
 }
 
 /* Rectangle 1414 */
-#nI4_26-4_21 {
+#n5_3394 {
     background: rgb(233, 233, 233);
     border-radius: 20px;
     top: 77.78%;
 }
 
 /* Rectangle 1415 */
-#nI4_26-4_22 {
-    background: rgb(255, 210, 94);
+#n5_3395 {
+    background: rgb(255, 198, 53);
     border-radius: 20px;
     right: 33.7209%;
     top: 77.78%;
 }
 
 /* Frame 13436 */
-#nI4_26-4_23 {
+#n5_3396 {
     width: 243px;
     height: 41px;
     overflow: visible;
@@ -448,7 +367,7 @@
 }
 
 /* number */
-#nI4_26-4_24 {
+#n5_3397 {
     font-family: Arial;
     font-size: 16px;
     font-weight: 400;
@@ -458,12 +377,12 @@
     justify-content: flex-start;
     transform: translate(0px, -1.38667px);
     line-height: 22px;
-    right: 70.3704%;
+    right: 11.1111%;
     bottom: 46.34%;
 }
 
 /* text */
-#nI4_26-4_25 {
+#n5_3398 {
     font-family: Arial;
     font-size: 12px;
     font-weight: 400;
@@ -473,36 +392,37 @@
     justify-content: flex-start;
     transform: translate(0px, -0.826667px);
     line-height: 16px;
-    right: 79.0123%;
+    right: 31.6872%;
     top: 60.98%;
 }
 
-/* Component 2 */
-#n4_27 {
+/* Component 7 */
+#n5_3399 {
     width: 1048px;
     height: 81px;
+    overflow: visible;
     top: 178px;
 }
 
 /* line */
-#nI4_27-4_6 {
-    background: rgb(229, 229, 229);
+#n5_3401 {
+    background: rgb(196, 196, 196);
     left: 1.52672%;
     right: 1.52672%;
     top: 99.38%;
 }
 
 /* Frame 13437 */
-#nI4_27-4_7 {
+#n5_3402 {
     width: 169px;
     height: 40.1539px;
     overflow: visible;
-    left: 395px;
+    left: 446px;
     top: 16px;
 }
 
 /* text */
-#nI4_27-4_8 {
+#n5_3403 {
     font-family: Arial;
     font-size: 16px;
     font-weight: 400;
@@ -512,11 +432,12 @@
     justify-content: flex-start;
     transform: translate(0px, -1.38667px);
     line-height: 22px;
+    right: 4.73373%;
     bottom: 45.21%;
 }
 
 /* text */
-#nI4_27-4_9 {
+#n5_3404 {
     font-family: Arial;
     font-size: 12px;
     font-weight: 400;
@@ -526,12 +447,12 @@
     justify-content: flex-start;
     transform: translate(0px, -0.826667px);
     line-height: 16px;
-    right: 80.4734%;
+    right: 39.0533%;
     top: 60.15%;
 }
 
 /* Frame 13438 */
-#nI4_27-4_10 {
+#n5_3405 {
     width: 15px;
     height: 40.1539px;
     overflow: visible;
@@ -539,8 +460,17 @@
     top: 16px;
 }
 
+/* Frame 13455 */
+#n5_3406 {
+    width: 23px;
+    height: 40.1538px;
+    overflow: visible;
+    left: 705px;
+    top: 16px;
+}
+
 /* text */
-#nI4_27-4_11 {
+#n5_3407 {
     font-family: Arial;
     font-size: 16px;
     font-weight: 400;
@@ -550,14 +480,12 @@
     justify-content: flex-start;
     transform: translate(0px, -1.38667px);
     line-height: 22px;
-    left: 62.1183%;
-    right: 37.0229%;
-    top: 19.75%;
-    bottom: 53.09%;
+    right: 60.8696%;
+    bottom: 45.21%;
 }
 
 /* text */
-#nI4_27-4_12 {
+#n5_3408 {
     font-family: Arial;
     font-size: 12px;
     font-weight: 400;
@@ -567,69 +495,20 @@
     justify-content: flex-start;
     transform: translate(0px, -0.826667px);
     line-height: 16px;
-    left: 62.1183%;
-    right: 36.4504%;
-    top: 49.57%;
-    bottom: 30.67%;
-}
-
-/* Frame 13439 */
-#nI4_27-4_13 {
-    width: 86px;
-    height: 36px;
-    overflow: visible;
-    left: 764px;
-    top: 16px;
-}
-
-/* text */
-#nI4_27-4_14 {
-    font-family: Arial;
-    font-size: 16px;
-    font-weight: 700;
-    letter-spacing: 0.05px;
-    color: rgb(0, 0, 0);
-    vertical-align: middle;
-    justify-content: flex-start;
-    transform: translate(0px, -1.38667px);
-    line-height: 22px;
-    right: 73.2558%;
-    bottom: 38.89%;
-}
-
-/* Rectangle 1413 */
-#nI4_27-4_15 {
-    background: rgb(233, 233, 233);
-    border-radius: 20px;
-    top: 77.78%;
-}
-
-/* Rectangle 1414 */
-#nI4_27-4_16 {
-    background: rgb(233, 233, 233);
-    border-radius: 20px;
-    top: 77.78%;
-}
-
-/* Rectangle 1415 */
-#nI4_27-4_17 {
-    background: rgb(108, 205, 99);
-    border-radius: 20px;
-    right: 26.7442%;
-    top: 77.78%;
+    top: 60.15%;
 }
 
 /* Frame 13440 */
-#nI4_27-4_18 {
+#n5_3409 {
     width: 86px;
     height: 36px;
     overflow: visible;
-    left: 918px;
+    left: 876px;
     top: 16px;
 }
 
 /* text */
-#nI4_27-4_19 {
+#n5_3410 {
     font-family: Arial;
     font-size: 16px;
     font-weight: 700;
@@ -644,29 +523,29 @@
 }
 
 /* Rectangle 1413 */
-#nI4_27-4_20 {
+#n5_3411 {
     background: rgb(233, 233, 233);
     border-radius: 20px;
     top: 77.78%;
 }
 
 /* Rectangle 1414 */
-#nI4_27-4_21 {
+#n5_3412 {
     background: rgb(233, 233, 233);
     border-radius: 20px;
     top: 77.78%;
 }
 
 /* Rectangle 1415 */
-#nI4_27-4_22 {
-    background: rgb(255, 210, 94);
+#n5_3413 {
+    background: rgb(108, 205, 99);
     border-radius: 20px;
-    right: 33.7209%;
+    right: 22.093%;
     top: 77.78%;
 }
 
 /* Frame 13436 */
-#nI4_27-4_23 {
+#n5_3414 {
     width: 243px;
     height: 41px;
     overflow: visible;
@@ -675,7 +554,7 @@
 }
 
 /* number */
-#nI4_27-4_24 {
+#n5_3415 {
     font-family: Arial;
     font-size: 16px;
     font-weight: 400;
@@ -685,12 +564,12 @@
     justify-content: flex-start;
     transform: translate(0px, -1.38667px);
     line-height: 22px;
-    right: 70.3704%;
+    right: 18.107%;
     bottom: 46.34%;
 }
 
 /* text */
-#nI4_27-4_25 {
+#n5_3416 {
     font-family: Arial;
     font-size: 12px;
     font-weight: 400;
@@ -700,7 +579,7 @@
     justify-content: flex-start;
     transform: translate(0px, -0.826667px);
     line-height: 16px;
-    right: 79.0123%;
+    right: 31.6872%;
     top: 60.98%;
 }
 
@@ -759,7 +638,7 @@
     width: 12px;
     height: 24px;
     overflow: visible;
-    left: 31px;
+    left: 68px;
 }
 
 /* dropdown */
@@ -785,7 +664,7 @@
     width: 12px;
     height: 24px;
     overflow: visible;
-    left: 693px;
+    left: 770px;
 }
 
 /* dropdown */
@@ -830,7 +709,7 @@
     top: 4px;
 }
 
-/* Оценка преподав. */
+/* Предварительная оценка */
 #n4_40 {
     font-family: Arial;
     font-size: 12px;
@@ -841,65 +720,13 @@
     justify-content: flex-start;
     transform: translate(0px, -0.826667px);
     line-height: 16px;
-    left: 91.2195%;
-    right: -3.53659%;
+    left: 104.878%;
+    right: -22.0732%;
     top: 16.67%;
     bottom: 16.67%;
 }
 
-/* dropdown / XS */
-#n4_41 {
-    overflow: visible;
-    left: 84.4488%;
-    right: 14.3701%;
-    bottom: 27.27%;
-}
-
-/* dropdown */
-#n4_42 {
-    font-family: "SF Pro Text";
-    font-size: 8px;
-    font-weight: 400;
-    letter-spacing: 0px;
-    color: rgb(0, 0, 0);
-    vertical-align: middle;
-    text-align: center;
-    justify-content: center;
-    width: 24px;
-    align-items: center;
-    line-height: 18px;
-    height: 24px;
-    left: calc(50% - 12px + 0px);
-    top: calc(50% - 12px + 0px);
-}
-
-/* dropdown / XS */
-#n4_43 {
-    overflow: visible;
-    left: 96.5551%;
-    right: 2.26378%;
-    bottom: 27.27%;
-}
-
-/* dropdown */
-#n4_44 {
-    font-family: "SF Pro Text";
-    font-size: 8px;
-    font-weight: 400;
-    letter-spacing: 0px;
-    color: rgb(0, 0, 0);
-    vertical-align: middle;
-    text-align: center;
-    justify-content: center;
-    width: 24px;
-    align-items: center;
-    line-height: 18px;
-    height: 24px;
-    left: calc(50% - 12px + 0px);
-    top: calc(50% - 12px + 0px);
-}
-
-/* Продолж. */
+/* Трудоемкость */
 #n4_45 {
     font-family: Arial;
     font-size: 12px;
@@ -910,30 +737,13 @@
     justify-content: flex-start;
     transform: translate(0px, -0.826667px);
     line-height: 16px;
-    left: 62.5%;
-    right: 32.185%;
-    top: 12.12%;
-    bottom: 39.39%;
+    left: 84.0244%;
+    right: 6.58537%;
+    top: 16.67%;
+    bottom: 16.67%;
 }
 
-/* Оценка курса */
-#n4_46 {
-    font-family: Arial;
-    font-size: 12px;
-    font-weight: 400;
-    letter-spacing: -0.05px;
-    color: rgb(0, 0, 0);
-    vertical-align: middle;
-    justify-content: flex-start;
-    transform: translate(0px, -0.826667px);
-    line-height: 16px;
-    left: 88.7795%;
-    right: 3.83858%;
-    top: 12.12%;
-    bottom: 39.39%;
-}
-
-/* Преподаватель */
+/* Составитель */
 #n4_47 {
     font-family: Arial;
     font-size: 12px;
@@ -944,8 +754,8 @@
     justify-content: flex-start;
     transform: translate(0px, -0.826667px);
     line-height: 16px;
-    left: 37.3031%;
-    right: 54.2323%;
+    left: 42.4213%;
+    right: 50.5906%;
     top: 12.12%;
     bottom: 39.39%;
 }
@@ -964,7 +774,7 @@
 
 /* line */
 #n4_50 {
-    background: rgb(229, 229, 229);
+    background: rgb(196, 196, 196);
     top: calc(50% - 0.25px + 0.25px);
     height: 0.5px;
 }
@@ -1153,3 +963,7 @@
     left: 56px;
     top: 34px;
 }
+
+#n4_61 a {color: white;}
+#n4_65 a {color: black;}
+#n5_1478 a {color: black;}
