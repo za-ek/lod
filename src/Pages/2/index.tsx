@@ -50,7 +50,7 @@ export default function () {
                 
                 <div className="frame" id="nI4_394-4_23">
                     
-                    <div className="scale text" id="nI4_394-4_24">Название</div>
+                    <div className="scale text" id="nI4_394-4_24"><Link to={"/programs/1"}>Программируемые логические контроллеры</Link></div>
                     
                     <div className="scale text" id="nI4_394-4_25">Кафедра</div>
                 </div>
